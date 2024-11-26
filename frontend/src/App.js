@@ -135,6 +135,8 @@ function App() {
             {/* Result Display */}
             {result && (
               <div className="mt-8">
+                <hr />
+                <br />
                 <h2 className="text-2xl font-bold mb-4 text-center">Results</h2>
                 <BreakevenDisclaimer
                   yearlyProfit={result?.yearlyProfitUSD}
