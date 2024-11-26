@@ -18,8 +18,8 @@ This project is a Bitcoin Mining Calculator that allows users to input mining pa
 
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/jacenko/bitcoin-mining-calculator-ht8.git
+cd bitcoin-mining-calculator-ht8
 ```
 
 ### Backend Setup 
